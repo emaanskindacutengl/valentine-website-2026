@@ -10,8 +10,8 @@
     /* Animations */
     --float-duration: 15s;
     --float-distance: 50px;
-    --bounce-speed: 0.5s;
-    --heart-explosion-size: 1.5;
+    --bounce-speed: 0.25s;
+    --heart-explosion-size: 1.2;
 }
 
 body {
